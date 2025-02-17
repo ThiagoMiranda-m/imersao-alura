@@ -1,0 +1,3 @@
+Este é um projeto realizado pela escola Alura, aonde foi feito uma réplica do site inicial da empresa Spotify. Esse projeto foi construído ao decorrer da 2° Imersão Front-End deles, uma semana com aulas específicas e voltada para o desenevolvimento Front End. 
+Com esse projeto, pude entender a relação HTML-CSS-JS, consegui entender como funciona o HTML com as suas inúmeras divs e classe, pude entender também como estilizar esses complementos criados pelo HTML com o CSS, e como produzir um pouco de DOM e manipulação de dados com o JavaScript juntamente com a complexidade de produzir uma API e conecta-lá usando um server JSON. 
+Foi uma semana totalmente enriquecedora para os conhecimentos, espero poder participar de mais imersões como essa.
